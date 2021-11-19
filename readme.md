@@ -1,5 +1,5 @@
 <h2 align="center">vinzy's Stats</h2>
-<a href="https://github.com/VinzyYT">
+<a href="https://github.com/vinzy2">
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=VinzyYT" alt="Profile Views Count">
   </p>
