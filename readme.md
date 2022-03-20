@@ -7,7 +7,7 @@
 
 <p align="center"><br>
   <a href="https://github.com/vinzy2">
-    <img src="https://lanyard.cnrad.dev/api/839181383568982056"/>
+    <img src="https://lanyard.cnrad.dev/api/924051221814329364"/>
      </a>
 </p>
 
